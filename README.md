@@ -3,9 +3,11 @@
 
 ![Website screenshot](image/screenshot.png)
 
-This was my first time testing out the [django framework](https://www.djangoproject.com) by Python. To go hands-on with the frawework, I did a step-by-step tutorial based on the book [Python Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/). 
+Creators: [@benthecoder](https://github.com/benthecoder) & [@Jjay35](https://github.com/Jjay35).
 
-Overall the experience was good, I learned a lot about what it takes to build a django app from scratch, which essentially is a CRUD app that creates, reads, updates and delete. 
+This was my first time testing out the [Django Web Framework](https://www.djangoproject.com) by Python. To go hands-on with the frawework, I did a step-by-step tutorial based on the book [Python Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/). 
+
+Overall the experience was good, I learned a lot about what it takes to build a django app from scratch, which essentially is a CRUD app (create, read, update and delete)
 
 ## How Django Works
 

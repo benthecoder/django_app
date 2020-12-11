@@ -132,3 +132,10 @@ LOGIN_URL= 'users:login'
 # Heroku Settings.
 import django_heroku
 django_heroku.settings(locals())
+
+# securing live project
+# os.environ.get reads value of DEBUG with a specific env variable
+if os.environ.get('DEBUG') == 'TRUE': 
+    DEBUG = True
+elif os.environ.get('DEBUG') == 'FALSE':
+    DEBUG = False

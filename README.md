@@ -1,7 +1,7 @@
 # Learning Tracker
+<a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" alt="Made with Django." title="Made with Django." /></a>
 
 ![Website screenshot](image/screenshot.png)
-<a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" alt="Made with Django." title="Made with Django." /></a>
 
 This was my first time testing out the [django framework](https://www.djangoproject.com) by Python. To go hands-on with the frawework, I did a step-by-step tutorial based on the book [Python Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/). 
 
